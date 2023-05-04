@@ -1,0 +1,18 @@
+h1 {
+    padding: 25px;
+    margin: 100px;
+    background-color: rgb(255, 199, 208);
+    border: 10px double black;
+}
+
+.slot {
+    border: solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE7bJ-GnSJFrDQ_D1GWBaGRNe8DgWNgjQYlb735Jgyo7WDPh-LOiOk_EDjCaWmcPMK3qI&usqp=CAU");
+    width: 10vw;
+    font-size: 50px;
+}
+
+#instructions{
+    font-size: 25px;
+}
+
